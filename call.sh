@@ -23,8 +23,6 @@ echo -e "\e[1;32m  By Ad A M "
 echo ""
 read -p "Enter Trage Phone :: " p 
 echo ""
-read -p "Enter Number of calls :: " f 
-echo ""
 until [ $a -gt $p ] 
 do 
 echo " "
